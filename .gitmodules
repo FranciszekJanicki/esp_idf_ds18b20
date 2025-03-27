@@ -1,0 +1,6 @@
+[submodule "esp32-utility"]
+	path = esp32-utility
+	url = https://github.com/franciszekjanicki/esp32-utility.git
+[submodule "/home/franek/Documents/esp-idf/esp-idf-ds18b20/components/utility"]
+	path = /home/franek/Documents/esp-idf/esp-idf-ds18b20/components/utility
+	url = https://github.com/franciszekjanicki/esp32-utility.git
